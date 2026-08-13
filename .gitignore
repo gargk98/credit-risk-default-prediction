@@ -1,0 +1,18 @@
+# Licensed WRDS data and derived panels — DO NOT redistribute
+Data/Raw/
+Data/Intermediate/
+data/raw/
+data/intermediate/
+*.dta
+
+# Jupyter / Python
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.virtual_documents/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
